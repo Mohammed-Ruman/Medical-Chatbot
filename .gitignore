@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# LLM Models
+*.bin
+*.part
+
 # Distribution / packaging
 .Python
 build/
