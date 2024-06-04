@@ -7,3 +7,7 @@ Medical Chatbot created using Generative AI
     ```bash
     python -m venv myenv
     ```
+2. Install the requirement dependency from requirements.txt file usinf cmd:
+    ```bash
+    pip install -r requirements.txt
+    ```
